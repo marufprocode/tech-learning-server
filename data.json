@@ -18,7 +18,7 @@
     },
     {
         "id": 2,
-        "name": "Node.js REST API with Express & MongoDB",
+        "name": "Node.Js REST API with Express & MongoDB",
         "img": "https://assets.northflank.com/nodemongo_9c3caf6f45.png",
         "category": "Node.Js",
         "shortdes": "Build MVC Rest API with Node.js, Express & MongoDB. Secure REST API with JWT, document API with Swagger, Mongoose ODM",
